@@ -1,0 +1,7 @@
+{
+  "name": "Moviez",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
